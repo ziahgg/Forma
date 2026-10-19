@@ -3,7 +3,7 @@
 Responsive homepage for FORMA, built from the Figma design
 (“Architecture Studio Homepage — Desktop / Mobile”).
 
-Live site: https://ziahgg.github.io/Forma/
+**Live site:** [https://ziahgg.github.io/Forma/](https://ziahgg.github.io/Forma/)
 
 ## Stack
 
